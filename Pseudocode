@@ -1,0 +1,6 @@
+function which takes both human and computer choices as arguments
+uses arguments to play single round
+increments round winner score
+logs winner announcement
+
+function playGround with parameters; humanChoice & computerChoice
